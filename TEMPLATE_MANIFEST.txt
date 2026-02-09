@@ -1,0 +1,5 @@
+﻿materialized from local path:
+C:\Users\linandersyh\OneDrive - Garmin\桌面\TemplateService\TEMPLATES\grpc-cleanarch
+
+key=grpc-cleanarch
+ver=v0.1.0
